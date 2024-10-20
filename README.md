@@ -4,9 +4,9 @@ My name is Matevosian Igor, and I'm a software developer. Welcome to my GitHub p
 
 ## 🔧 Skills and Tools
 - **Programming Languages:** Python, C#, Java
-- **Frameworks and Libraries:** Flask, FastAPI, Spring
-- **Databases:** PostgreSQL, MSSQL
-- **Tools:** Git
+- **Frameworks and Libraries:** FastAPI, SQLAlchemy
+- **Databases:** PostgreSQL, Mariadb
+- **Tools:** Git, Docker, docker-compose
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letsmol&show_icons=true&theme=radical)
