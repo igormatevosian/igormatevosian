@@ -9,9 +9,9 @@ My name is Matevosian Igor, and I'm a software developer. Welcome to my GitHub p
 - **Tools:** Git, Docker, docker-compose
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igormatevosian&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igormatevosian&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igormatevosian&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igormatevosian&layout=compact&theme=dark)
 
 ## 🎯 LeetCode Stats
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=letsmol&theme=dark)
