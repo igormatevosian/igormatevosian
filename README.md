@@ -14,7 +14,7 @@ My name is Matevosian Igor, and I'm a software developer. Welcome to my GitHub p
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igormatevosian&layout=compact&theme=radical)
 
 ## 🎯 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=igormatevosian&theme=dark)
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=letsmol&theme=dark)
 
 ## 📫 Contact Information
 - **Email:** igormatevosian@gmail.com
